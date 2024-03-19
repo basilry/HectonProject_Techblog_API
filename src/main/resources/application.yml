@@ -6,3 +6,8 @@ spring:
         name: HectonProject_Techblog_API
 
 
+logging:
+  level:
+    org:
+      springframework:
+        security: DEBUG
